@@ -142,6 +142,7 @@ public class EmployeePayrollSystem {
                 }
                 case 2 -> {
                     System.out.print("Enter Employee ID: ");
+ 
                     String id = scanner.nextLine();
                     System.out.print("Enter Name: ");
                     String name = scanner.nextLine();
